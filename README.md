@@ -81,7 +81,7 @@
     <!-- PDF.js Library -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.min.js"></script>
     <script>
-        const url = 'https://docs.google.com/document/d/1Ds_Br7iZI34MmUZjxt56Ez_EVscEBLU7XjfplldWEMw/edit?usp=drivesdk'; // Replace with actual PDF URL
+        const url = 'https://drive.google.com/file/d/1Wvt4VKqrEcpc6pQtoq2UY4DcHy-N2KzC/view?usp=drivesdk'; // Replace with actual PDF URL
         let pdfDoc = null;
         let pageNum = 1;
         let pageRendering = false;
